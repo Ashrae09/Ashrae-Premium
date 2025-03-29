@@ -1,2 +1,0 @@
-# Ashrae-Premium
-All Credentials
